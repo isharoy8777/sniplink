@@ -291,13 +291,7 @@ The API enforces rate limiting on all `/api/*` routes:
 | `npm run build`    | Build for production                  |
 | `npm run preview`  | Preview production build locally      |
 
----
-
-## 📝 License
-
-ISC
-
----
+--
 
 <p align="center">
   Built with ⚡ by <a href="https://github.com/isharoy8777"><strong>isharoy8777</strong></a>
